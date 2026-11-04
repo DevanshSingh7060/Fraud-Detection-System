@@ -1,0 +1,10 @@
+com\frauddetect\model\Transaction.class
+com\frauddetect\service\TransactionService.class
+com\frauddetect\engine\MLFraudEngine$3.class
+com\frauddetect\engine\MLFraudEngine$1.class
+com\frauddetect\FraudDetectionApplication$1.class
+com\frauddetect\engine\MLFraudEngine.class
+com\frauddetect\engine\MLFraudEngine$2.class
+com\frauddetect\model\FraudAlert.class
+com\frauddetect\controller\TransactionController.class
+com\frauddetect\FraudDetectionApplication.class
